@@ -1,0 +1,800 @@
+Anghel Mihai-Gabriel
+Scoala Gimnaziala Sf. Andrei
+9.60
+0 1 2
+Kellan Glass
+C.Nat. Gh.M. Murgoci
+9.84
+0 2 1
+Kiran Arias
+Scoala Gimnaziala I. Creanga
+7.32
+3 4 2
+Kamron Butler
+Scoala Gimnaziala I. Bancila
+7.55
+4 2 3
+Ronnie Bush
+Scoala Gimnaziala Sf. Andrei
+8.76
+2 1 3 4
+Kyle Bates
+C.Nat. Gh.M. Murgoci
+10
+0 1
+Brandon Brennan
+C.Nat. Gh.M. Murgoci
+9
+0 2 4
+Kristie Harrison
+Scoala Gimnaziala Sf. Andrei
+6.20
+4 3
+Warwick Sampson
+C.Nat. Gh.M. Murgoci
+10
+1 2 4
+Arnold Farrington
+C.Nat. Gh.M. Murgoci
+9.90
+0 1 2
+Abdur Cervantes
+Scoala Gimnaziala Sf. Andrei
+8.90
+2 1 0
+Fredrick Hardy
+C.Nat. Gh.M. Murgoci
+9.77
+1 0 3 2
+Catrina Brady
+Scoala Gimnaziala I. Creanga
+9.90
+0 3
+Alina Duffy
+C.Nat. Gh.M. Murgoci
+10
+2 0
+Malaika Sykes
+Scoala Gimnaziala Sf. Andrei
+5.40
+3 4
+Betty Porter
+C.Nat. Gh.M. Murgoci
+8.67
+0 1 3
+Armani Paul
+Scoala Gimnaziala Sf. Andrei
+9.50
+0 2 3
+Virginia Legge
+Scoala Gimnaziala I. Bancila
+8.15
+1 2
+Rhona Finch
+C.Nat. Gh.M. Murgoci
+9.86
+1 2
+Yehuda Fernandez
+Scoala Gimnaziala Sf. Andrei
+6
+4 3
+Rick Schwartz
+C.Nat. Gh.M. Murgoci
+7.12
+2 3 4
+Guy Bishop
+Scoala Gimnaziala I. Creanga
+9.75
+2 0 1
+Isra Childs
+Scoala Gimnaziala M. Eminescu
+9.20
+0 2 1 3
+Krishan Ware
+Scoala Gimnaziala I. Creanga
+9.78
+1 0
+Aniela Ahmed
+C.Nat. Gh.M. Murgoci
+8.68
+2 0 1
+Elliott Churchill
+C.Nat. Gh.M. Murgoci
+5.78
+4
+Kristen Fountain
+C.Nat. Gh.M. Murgoci
+7.90
+4  2
+Agatha Smyth
+Scoala Gimnaziala I. Creanga
+8.60
+3 2 4
+Aamir Peel
+Scoala Gimnaziala I. Creanga
+9.23
+3 1 4
+Ruari Mathis
+Scoala Gimnaziala Sf. Andrei
+9.76
+0 1 2
+Libbie Curry
+C.Nat. Gh.M. Murgoci
+9.93
+0 2 1
+Lena Daniels
+Scoala Gimnaziala I. Creanga
+9.53
+1 0 3
+Dulcie Hansen
+Scoala Gimnaziala M. Eminescu
+10
+1 0
+Fionnuala Driscoll
+C.Nat. Gh.M. Murgoci
+10
+0 1
+Tariq Gentry
+Scoala Gimnaziala I. Creanga
+8
+0 1 2
+Krystal Osborn
+Scoala Gimnaziala M. Eminescu
+9
+0 1 2
+Ameena Small
+C.Nat. Gh.M. Murgoci
+8
+1 0 3
+Katarina Barron
+C.Nat. N. Balcescu
+7
+2 3
+Moshe Cherry
+Scoala Gimnaziala Sf. Andrei
+5
+4 3
+Rumaisa Mcbride
+Scoala Gimnaziala V. Alecsandri
+7.57
+1 4 3
+Idris Fleming
+Scoala Gimnaziala Sf. Andrei
+9.88
+1 0 3
+Zakariya Harvey
+Scoala Gimnaziala A. Pann
+5.67
+2 4 5 0
+Kyan Galvan
+C.Nat. Gh.M. Murgoci
+9.92
+0 2 1
+Myrtle Vaughan
+Scoala Gimnaziala Sf. Andrei
+8.32
+0 2 3 4
+Glen Garza
+C.Nat. Gh.M. Murgoci
+3.2
+4 3
+Daphne Odom
+C.Nat. Gh.M. Murgoci
+9.84
+2 3 4 0
+Allen Logan
+Scoala Gimnaziala I. Creanga
+9.59
+1 2 5 4
+Hadley Mathews
+Scoala Gimnaziala M. Eminescu
+8.43
+2 0 3 4
+Alishba Atherton
+Scoala Gimnaziala I. Creanga
+9.76
+2 1 0 3
+Hadiya Wallis
+C.Nat. N. Balcescu
+9.98
+0 2 1
+Marley Leach
+Scoala Gimnaziala I. Creanga
+10
+2 1 4
+Naseem Edmonds
+C.Nat. N. Balcescu
+7.99
+1 0 2 3
+Charley Mellor
+Scoala Gimnaziala M. Dragomir
+6.5
+1 2 0 4
+Karina Fritz
+Scoala Gimnaziala M. Eminescu
+9.76
+0 1 4
+Helen Henderson
+Scoala Gimnaziala M. Eminescu
+5.4
+0
+Malcolm Sheppard
+C.Nat. Gh.M. Murgoci
+8.3
+2 3
+Moses Phillips
+C.Nat. Gh.M. Murgoci
+9.94
+0 2
+Chay Parrish
+Scoala Gimnaziala I. Creanga
+8.95
+1 0 3
+Brandon-Lee Burke
+Scoala Gimnaziala M. Eminescu
+7.64
+1 3 2
+Lloyd Bevan
+C.Nat. N. Balcescu
+4.3
+3 4
+Duke Stevens
+Scoala Gimnaziala I. Creanga
+9.15
+3 1 2
+Ebonie Ratcliffe
+C.Nat. Gh.M. Murgoci
+9.44
+0 3 4
+Sienna-Rose Berger
+Scoala Gimnaziala M. Dragomir
+8.41
+2 1 0
+Lucien Whitworth
+Scoala Gimnaziala M. Dragomir
+6.98
+3 2 4
+Denzel Read
+Scoala Gimnaziala M. Eminescu
+6.33
+3 2
+Oskar Bateman
+C.Nat. N. Balcescu
+9.42
+1 0 2
+Om Zavala
+C.Nat. N. Balcescu
+8.36
+1 3 4
+Hawa Blackmore
+Scoala Gimnaziala M. Dragomir
+5
+3 4
+Daisy Flores
+Scoala Gimnaziala I. Creanga
+5
+4 3
+Sayed Prince
+Scoala Gimnaziala M. Eminescu
+5.79
+2 3 4
+Bethany Lewis
+C.Nat. Gh.M. Murgoci
+8
+2 1 4
+Krish Stanton
+Scoala Gimnaziala Sf. Andrei
+7.37
+3 4
+Ana Stott
+Scoala Gimnaziala I. Creanga
+9.12
+2 1 3 4
+Ammaarah Higgs
+Scoala Gimnaziala V. Alecsandri
+9.14
+0 1 2 3 4
+Adaline Sadler
+Scoala Gimnaziala M. Eminescu
+6.73
+3 4
+Priya Blevins
+C.Nat. Gh.M. Murgoci
+8.46
+3 0 1 4
+Dewi Moran
+Scoala Gimnaziala I. Creanga
+9.71
+1 2 4
+Shannan Bailey
+Scoala Gimnaziala M. Dragomir
+9.30
+3 4 1
+Lennox Goddard
+C.Nat. N. Balcescu
+8.39
+4 2 1 5
+Sioned Shepherd
+Scoala Gimnaziala M. Eminescu
+10
+3 0 4
+Kelis Xiong
+Scoala Gimnaziala I. Creanga
+9.83
+1 0
+Patrick Bullock
+Scoala Gimnaziala A. Pann
+8.55
+1 0 2 3
+Asif Hewitt
+Scoala Gimnaziala V. Alecsandri
+7.7
+3 4
+Nial Galindo
+C.Nat. Gh.M. Murgoci
+7.51
+2 1 4
+Atticus Kelley
+Scoala Gimnaziala I. Creanga
+9.33
+0 3 1 4
+Mohsin Lugo
+Scoala Gimnaziala M. Eminescu
+5.79
+4 2 1
+Olivia-Rose Little
+Scoala Gimnaziala I. Creanga
+5.05
+3 4
+Kaeden Wicks
+C.Nat. N. Balcescu
+9.06
+3 2 4
+Rizwan Skinner
+Scoala Gimnaziala M. Dragomir
+8.02
+2 3 0
+Anderson Philip
+Scoala Gimnaziala M. Eminescu
+9.37
+3 1 4
+Austin Lennon
+Scoala Gimnaziala Sf. Andrei
+6.17
+1 2 4
+Gerald Lloyd
+Scoala Gimnaziala Sf. Andrei
+7.59
+0 2 1
+Alistair Gamble
+C.Nat. Gh.M. Murgoci
+9.5
+2 1 0
+Elicia Mueller
+Scoala Gimnaziala I. Creanga
+8.51
+3 2 4
+Poppie Peterson
+C.Nat. N. Balcescu
+9.36
+1 2 0 3
+Jamie-Leigh Simmonds
+Scoala Gimnaziala I. Creanga
+8.99
+3 0 2 1
+Madeleine Vincent
+Scoala Gimnaziala M. Dragomir
+9.4
+1 2 0
+Humzah Harwood
+Scoala Gimnaziala A. Pann
+6.89
+4 3 0
+Thiago Mckay
+C.Nat. N. Balcescu
+8.18
+3 2 1 4
+Zeynep Appleton
+Scoala Gimnaziala A. Pann
+8.66
+1 4 3
+Gracie Graham
+Scoala Gimnaziala M. Eminescu
+9.02
+1 0 2 3
+Brendon Grainger
+Scoala Gimnaziala Sf. Andrei
+8.23
+1 2 3
+Nial Mcmanus
+Scoala Gimnaziala I. Creanga
+9.09
+0 1 2
+Bessie Estes
+C.Nat. Gh.M. Murgoci
+5.34
+3 4 1
+Hubert Cantu
+Scoala Gimnaziala M. Dragomir
+3.28
+4 3
+Euan Edge
+Scoala Gimnaziala M. Dragomir
+9.79
+1 2
+Tanisha Paine
+C.Nat. N. Balcescu
+8.57
+2 3 4
+Ashlyn Thatcher
+C.Nat. N. Balcescu
+7.36
+2 1 4 3
+Tasnia Terrell
+Scoala Gimnaziala A. Pann
+6.99
+4 3 1 0
+Hadley Horn
+Scoala Gimnaziala M. Eminescu
+7.29
+3 4 2
+Eadie Wilkerson
+C.Nat. Gh.M. Murgoci
+9.99
+1 0 2
+Alya Walton
+Scoala Gimnaziala M. Eminescu
+4.68
+4
+Jennie Bean
+C.Nat. N. Balcescu
+8.03
+3 4 0 1
+Quentin Senior
+Scoala Gimnaziala M. Dragomir
+9.21
+0 1 2 3 4
+Ben Burns
+Scoala Gimnaziala I. Creanga
+9.49
+2 0 1
+Lorena Knox
+C.Nat. Gh.M. Murgoci
+9.55
+1 2 3
+Emma-Louise Trevino
+Scoala Gimnaziala A. Pann
+8.98
+2 3 1
+Sachin Cohen
+Scoala Gimnaziala M. Eminescu
+9.74
+1 4 3 0
+Cherise Rodrigues
+C.Nat. N. Balcescu
+9.23
+1 2 3 4
+Vicki Cano
+Scoala Gimnaziala A. Pann
+6.17
+5 1 2 3
+Ritik Lyons
+Scoala Gimnaziala A. Pann
+6.11
+1 2 3 4 0
+Naveed Wolf
+Scoala Gimnaziala M. Eminescu
+8.69
+3 2 1
+Lucy Cain
+Scoala Gimnaziala V. Alecsandri
+9.33
+2 1 3
+Ariya Watkins
+Scoala Gimnaziala M. Eminescu
+9.95
+0 2 3
+Tony Khan
+C.Nat. Gh.M. Murgoci
+5.79
+2 3 4 0
+Farhana Watts
+Scoala Gimnaziala M. Dragomir
+10
+1
+Sabina Phelps
+Scoala Gimnaziala M. Eminescu
+9
+2 1 3
+Amanpreet Duke
+Scoala Gimnaziala Sf. Andrei
+8
+3 4 1
+Alicja Wilson
+Scoala Gimnaziala I. Creanga
+4
+4 3
+Ayesha Churchill
+Scoala Gimnaziala A. Pann
+5
+4
+Howard Simmons
+Scoala Gimnaziala Sf. Andrei
+6
+3 4 2
+Ellisha Ewing
+C.Nat. N. Balcescu
+7
+3 4 2
+Shanelle Roberts
+Scoala Gimnaziala Sf. Andrei
+8
+2 3 4
+Gloria Choi
+C.Nat. Gh.M. Murgoci
+9
+2 1 4 3
+Laibah Barnett
+Scoala Gimnaziala I. Creanga
+5.5
+3 4
+Conan O'Sullivan
+Scoala Gimnaziala M. Eminescu
+6.5
+2 4
+Amaan Griffiths
+Scoala Gimnaziala M. Dragomir
+7.5
+3 4 2 1
+Jaspal Busby
+C.Nat. N. Balcescu
+8.5
+1 2 3 4
+Emelie Shepherd
+Scoala Gimnaziala V. Alecsandri
+9.5
+0 1 2 3 4
+Theodora Buck
+C.Nat. N. Balcescu
+3.13
+4 3 2 1
+Matt Cortes
+Scoala Gimnaziala M. Dragomir
+4.43
+4 3 2 1 0
+Jokubas Fitzgerald
+C.Nat. Gh.M. Murgoci
+8.39
+2 3 4
+Katie-Louise Gilmore
+Scoala Gimnaziala M. Eminescu
+9.91
+1 0 2
+Camille Blackwell
+Scoala Gimnaziala A. Pann
+9.17
+1 0 2
+Arsalan Norton
+Scoala Gimnaziala M. Dragomir
+8.72
+2 3 4
+Zayan Cook
+Scoala Gimnaziala I. Creanga
+8.97
+4 5 3 2
+Alec O'Moore
+Scoala Gimnaziala A. Pann
+9.33
+3 2 1
+Aayat Stone
+Scoala Gimnaziala A. Pann
+9.4
+3 2 1
+Timothy Navarro
+Scoala Gimnaziala Sf. Andrei
+9.12
+2 3 4
+Sophie-Louise Healy
+Scoala Gimnaziala V. Alecsandri
+9.36
+1 2 3
+Milla Tran
+Scoala Gimnaziala V. Alecsandri
+9.32
+0 1 2
+Hallam Serrano
+Scoala Gimnaziala M. Eminescu
+8.27
+3 4 2
+Yash Houghton
+Scoala Gimnaziala V. Alecsandri
+7.1
+4 3 1
+Brandi Alford
+Scoala Gimnaziala Sf. Andrei
+9.6
+1 2 3
+Taine Mckenzie
+Scoala Gimnaziala I. Creanga
+4.89
+3 4 2
+Celine Pemberton
+C.Nat. Gh.M. Murgoci
+6.76
+3 2 4 1
+Elowen Rowland
+Scoala Gimnaziala A. Pann
+7.77
+2 3 4
+Manav Knapp
+C.Nat. N. Balcescu
+6.66
+4 3
+Hunter Lawrence
+Scoala Gimnaziala I. Bancila
+5.55
+2 3 4
+Nolan Hatfield
+Scoala Gimnaziala M. Eminescu
+4.44
+4 3
+Aleesha Goodman
+Scoala Gimnaziala M. Dragomir
+8.88
+2 3 4
+Callie Ayers
+Scoala Gimnaziala M. Dragomir
+9.11
+2 1 0 3
+Zain Mckinney
+Scoala Gimnaziala I. Creanga
+7.61
+2 1 4 0
+Kayden Beasley
+Scoala Gimnaziala Sf. Andrei
+6.38
+3 4
+Phoebe Zavala
+Scoala Gimnaziala I. Bancila
+8.19
+4 3 0
+Troy Hampton
+Scoala Gimnaziala I. Bancila
+9.19
+3 4 1
+Mollie Ballard
+Scoala Gimnaziala M. Eminescu
+3.19
+4
+Chase Talley
+Scoala Gimnaziala I. Creanga
+4.19
+2 3 4
+Billie-Jo Cassidy
+Scoala Gimnaziala Sf. Andrei
+7.19
+2 3 4
+Jonathan Peck
+Scoala Gimnaziala M. Eminescu
+8.19
+3 4 2
+Aubrey Vinson
+C.Nat. Gh.M. Murgoci
+9.9
+0 1 2 3
+Deacon Fletcher
+Scoala Gimnaziala I. Bancila
+3
+4 3 2 1 0
+Kaira Clements
+C.Nat. N. Balcescu
+3.98
+3 4 2 1 0
+Elias Fry
+Scoala Gimnaziala I. Creanga
+6.4
+3 4 2 1
+Kelsea Allan
+Scoala Gimnaziala I. Bancila
+8.71
+3 4 2
+Bibi Bonilla
+C.Nat. N. Balcescu
+9.2
+2 3 4
+Jarod Moyer
+Scoala Gimnaziala I. Creanga
+9.4
+1 0 3
+Ivo Rodriguez
+Scoala Gimnaziala Sf. Andrei
+9.7
+2 1 4 3
+Wren Farrington
+Scoala Gimnaziala M. Eminescu
+7.9
+2 3 4
+Torin Downs
+C.Nat. N. Balcescu
+8.74
+2 3 4 1
+Rosa Holman
+Scoala Gimnaziala M. Dragomir
+9.53
+1 2 3 4 0
+Hareem Sullivan
+C.Nat. Gh.M. Murgoci
+9.41
+0 1 2 3 4
+Nayla Russell
+Scoala Gimnaziala I. Bancila
+8.53
+0 1 2 3
+Izabelle Redfern
+Scoala Gimnaziala I. Creanga
+6.34
+3 4 2
+Bailey Macleod
+Scoala Gimnaziala I. Bancila
+7.41
+3 2 4 0
+Farzana Atkins
+Scoala Gimnaziala M. Eminescu
+8.18
+2 3 4
+Olivia-Mae Dejesus
+Scoala Gimnaziala M. Dragomir
+8.61
+3 2 4 1 0
+Rhian Parks
+Scoala Gimnaziala I. Bancila
+9.37
+2 1 4
+Zidane Odling
+Scoala Gimnaziala I. Creanga
+6.79
+4 3
+Connagh Valdez
+Scoala Gimnaziala I. Bancila
+5.46
+3 4 2 1
+Alfie-Jay Hackett
+Scoala Gimnaziala M. Eminescu
+6.65
+4 3 2 1
+Aneesah Jeffery
+C.Nat. Gh.M. Murgoci
+9.73
+1 2 3 4
+Acacia Walter
+Scoala Gimnaziala I. Bancila
+9.46
+2 1 3 4
+Georga Cowan
+Scoala Gimnaziala I. Bancila
+9.42
+1 2 3 4
+Miriam Lu
+Scoala Gimnaziala Sf. Andrei
+8.32
+2 3 4
+Yousuf England
+C.Nat. Gh.M. Murgoci
+8.87
+2 1 3 4 0
+Abdullahi Fuller
+Scoala Gimnaziala I. Creanga
+9.31
+1 2 3 4 0
+Atlanta Hawes
+Scoala Gimnaziala M. Eminescu
+8.98
+0 1 2 3 4
+Vernon Benson
+Scoala Gimnaziala I. Bancila
+7.62
+2 3 4
+Sahara Herman
+C.Nat. Gh.M. Murgoci
+8.41
+2 1 3
