@@ -5,7 +5,7 @@ students in high school.The software simulates the method by which in
 Romania, the 8th grade students are distributed to high schools 
 according to grades and very importantly the chosen options. 
 
-Admission is by "sliding". What this means?
+Admission is by "sliding". What do this means?
 
 Each high school has a certain declared capacity. Each student completes 
 a form where he chooses the codes of the high schools where he would like 
