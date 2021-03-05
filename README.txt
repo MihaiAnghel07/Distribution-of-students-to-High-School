@@ -1,6 +1,6 @@
 Hello!
 
-This is a small project that simulates the software that distributes 
+This is a project that simulates the software that distributes 
 students in high school.The software simulates the method by which in 
 Romania, the 8th grade students are distributed to high schools 
 according to grades and very importantly the chosen options. 
